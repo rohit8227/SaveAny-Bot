@@ -3,9 +3,9 @@ retry = 3   # 下载失败重试次数
 
 [telegram]
 token = ""                                    # Bot Token
-admins = [777000]                             # 你的 user_id
-app_id = 123456                               # Telegram API ID
-app_hash = "0123456789abcdef0123456789abcdef" # Telegram API Hash
+admins = [7568561381]                             # 你的 user_id
+app_id = 20607064                               # Telegram API ID
+app_hash = "8117966125:AAG8AsaKB4Gd1kqkOJ9-VgSlftsL_z827M0" # Telegram API Hash
 
 [telegram.proxy]
 enable = false
